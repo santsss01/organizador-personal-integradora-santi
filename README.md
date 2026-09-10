@@ -53,3 +53,18 @@ Proyecto en etapa inicial. Actualmente se encuentra lista la estructura base,
 el entorno virtual, la gestión de dependencias y el control de versiones. Las
 funcionalidades descritas en `docs/funcionalidades.md` aún no están
 implementadas.
+
+## Colaboración
+
+Este proyecto se desarrolló en parejas como parte de la práctica integradora de
+Git y GitHub.
+
+- El repositorio original pertenece a **santsss01**.
+- **justin12f** participó como colaborador externo: creó un *fork*, trabajó en la
+  rama `mejora-documentacion` y propuso cambios mediante un *Pull Request*
+  (`docs/recomendaciones.md` y esta sección).
+- La propietaria revisó el Pull Request, lo aprobó y realizó el *merge* hacia
+  `main`.
+
+Flujo utilizado: fork → clone → branch → commit → push → Pull Request → review →
+merge → pull.
