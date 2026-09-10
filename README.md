@@ -46,3 +46,10 @@ Registradas en `requirements.txt` mediante `pip freeze`:
 
 santsss01 — Desarrollo de Aplicaciones y Servicios Virtuales, Ing. Alejandro
 Montes, Universidad Iberoamericana León.
+
+## Estado
+
+Proyecto en etapa inicial. Actualmente se encuentra lista la estructura base,
+el entorno virtual, la gestión de dependencias y el control de versiones. Las
+funcionalidades descritas en `docs/funcionalidades.md` aún no están
+implementadas.
